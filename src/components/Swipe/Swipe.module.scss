@@ -1,0 +1,15 @@
+.swipe {
+  width: 1000px;
+  height: 300px;
+
+  .inner {
+    overflow: hidden;
+    height: 100%;
+
+    .items {
+      display: flex;
+      flex-wrap: nowrap;
+      height: 100%;
+    }
+  }
+}

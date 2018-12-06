@@ -1,0 +1,11 @@
+.swipeItem {
+  position: relative;
+  padding-right: 0;
+
+  .inner {
+    border: solid #ddd 1px;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+  }
+}
